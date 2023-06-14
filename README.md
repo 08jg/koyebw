@@ -49,7 +49,7 @@
 <img width="1090" alt="image" src="https://user-images.githubusercontent.com/92626977/213895730-19a361b8-db3f-4f93-8656-325d76e5cbf9.png">
 <img width="1670" alt="image" src="https://user-images.githubusercontent.com/62703343/213903422-b3183614-a36a-4b93-97f0-a381f4462b4d.png">
 
-## 鸣谢下列作者的文章和项目:
+## 鸣谢下列作者的文章和
 网友 @meihao202 提供参与的资料
 
 ## 免责声明:
